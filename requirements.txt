@@ -1,0 +1,9 @@
+streamlit
+langchain.embeddings
+langchain.chains
+langchain_community.vectorstores
+langchain_core.prompts
+langchain_huggingface
+langchain_community.document_loaders
+langchain.text_splitter
+
